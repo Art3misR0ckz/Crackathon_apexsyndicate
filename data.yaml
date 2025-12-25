@@ -1,0 +1,12 @@
+path: RDD2022
+train: images/train
+val: images/val
+test: images/test
+
+nc: 5
+names:
+  - longitudinal_crack
+  - transverse_crack
+  - alligator_crack
+  - other_corruption
+  - pothole
